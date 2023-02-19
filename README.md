@@ -2,6 +2,8 @@
 
 
 <div align="center">
-  <a href="https://github.com/Dickson-Pinheiro">
-![Snake animation](https://github.com/Dickson-Pinheiro/Dickson-Pinheiro/blob/output/github-contribution-grid-snake.svg)
+  
+    
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/Dickson-Pinheiro/Dickson-Pinheiro/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 </div>
