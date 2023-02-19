@@ -14,16 +14,15 @@
  align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img
  align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <div align="center">
-
-  <p>Redes sociais: </p>
+    <p>Redes sociais: </p>
 <a href="https://www.instagram.com/dicksonpinheiro/">
   <img align="center" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a><a href="https://twitter.com/dicksonpinheir1">
   <img align="center" alt="Dickson Pinheiro | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a><a href="https://www.linkedin.com/in/dickson-medeiros/">
   <img align="center" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-  
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/Dickson-Pinheiro/Dickson-Pinheiro/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+</a> 
+ 
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/Dickson-Pinheiro/Dickson-Pinheiro/output/github-contribution-grid-snake-dark.svg)
   
 </div>
