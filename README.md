@@ -1,7 +1,6 @@
 <h1 align="center"> Olá! Sou o Dickson. Desenvolvedor web full stack <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
-<p align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dickson-Pinheiro&show_icons=true&theme=gotham" alt="Dickson-Pinheiro" />
 </div>
 
 <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img 
