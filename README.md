@@ -15,11 +15,7 @@
     <p>Redes sociais: </p>
 <a href="https://www.instagram.com/dicksonpinheiro/">
   <img align="center" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a><a href="https://twitter.com/dicksonpinheir1">
-  <img align="center" alt="Dickson Pinheiro | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a><a href="https://www.linkedin.com/in/dickson-medeiros/">
-  <img align="center" alt="Dickson Pinheiro | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> 
+</a>
  
   ![github contribution grid snake animation](https://raw.githubusercontent.com/Dickson-Pinheiro/Dickson-Pinheiro/output/github-contribution-grid-snake-dark.svg)
   
