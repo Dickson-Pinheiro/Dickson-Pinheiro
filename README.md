@@ -15,7 +15,10 @@
 <div align="center">
     <p>Redes sociais: </p>
 <a href="https://www.instagram.com/dicksonpinheiro/">
-  <img align="center" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="center" alt="Dickson Pinheiro | Instagram" width="32" heigth="32" src="https://cdn.simpleicons.org/instagram" />
+</a>
+<a href="https://www.linkedin.com/in/dickson-medeiros/">
+ <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/Linkedin" />
 </a>
  
   ![github contribution grid snake animation](https://raw.githubusercontent.com/Dickson-Pinheiro/Dickson-Pinheiro/output/github-contribution-grid-snake-dark.svg)
