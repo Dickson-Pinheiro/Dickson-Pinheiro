@@ -1,6 +1,10 @@
 <h1 align="center"> Olá! Sou o Dickson. Desenvolvedor web full stack <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
+ 
+ ![Dickson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dickson-Pinheiro&show_icons=true&theme=transparent)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dickson-Pinheiro&theme=transparent)](https://github.com/Dickson-Pinheiro/github-readme-stats?theme=transparent)
+ 
 </div>
 <div align="center">
 <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img 
@@ -12,8 +16,7 @@
  align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img
  align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img
  align="center" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=whit"><img
- align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">                                                                                                                
-</div>
+ align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">                                              </div>
 <div align="center">
     <p>Redes sociais: </p>
 <a href="https://www.instagram.com/dicksonpinheiro/">
