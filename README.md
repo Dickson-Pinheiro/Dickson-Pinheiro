@@ -2,9 +2,6 @@
 
 <div align="center">
  
- ![Dickson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dickson-Pinheiro&show_icons=true&theme=transparent)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dickson-Pinheiro&theme=transparent)](https://github.com/Dickson-Pinheiro/github-readme-stats?theme=transparent)
- 
 </div>
 <div align="center">
 <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img 
